@@ -1,0 +1,2 @@
+A secure way to check if your password has ever been hacked.
+While executing the .py file on terminal / command prompt, we will be able to input any password we have and check if it has ever been hacked/ guessed by anyone before. This way you can check if your password is secure or not.  
