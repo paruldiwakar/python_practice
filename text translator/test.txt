@@ -1,0 +1,1 @@
+Hello this is a small and very easy program to translate this text in the given language (korean in this case) . 
